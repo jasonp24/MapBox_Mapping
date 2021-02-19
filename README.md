@@ -1,5 +1,7 @@
 # Map Design and Tile Generation Deliverables
 
+Link to hosted webmap: https://jasonp24.github.io/MapBox_Mapping/
+
 ## Tile 1 Screenshot - Customized Basemap:
 ![image](img/customized_basemap.PNG)
 
